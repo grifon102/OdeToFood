@@ -19,8 +19,9 @@ namespace OdeToFood.Controllers
             //ViewBag.Message = "Your application description page.";
 
             var model = new AboutModel();
-            model.Name =""
-            return View();
+            model.Name = "Алексей";
+            model.Location = "Moskov";
+            return View(model);
         }
 
         public ActionResult Contact()

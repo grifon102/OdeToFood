@@ -69,6 +69,25 @@ h1 {
     font-size: 2em;
 }
 
+.reviews span {
+    color:crimson;
+    font-weight:bold;
+    font-size:12px;
+}
+
+.reviews h4 {
+    color:red;
+    font-style:normal;
+    font-size:16px;
+    background-color:burlywood;
+}
+
+.reviews p {
+    color:green;
+    font-size:14px;
+
+}
+
 h2 {
     font-size: 1.75em;
 }
